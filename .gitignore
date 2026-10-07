@@ -1,0 +1,26 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ⚠️ SANGAT PENTING: Jangan pernah commit file-file ini!
+sonar-project.properties  # Berisi token SonarQube
+.env                       # Berisi credentials dan secrets
+*.key                      # Private keys
