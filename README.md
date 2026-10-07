@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel SAST Lab 🛡️
 
 **Panduan Praktikum DevSecOps — SAST dengan SonarQube**  
@@ -159,3 +160,6 @@ Setelah scan selesai, dokumentasikan:
 ---
 
 *DevSecOps — STT Terpadu Nurul Fikri*
+=======
+# laravel-sast-lab
+>>>>>>> 6e5c30232bd00d436e267bb9d0ec19b251e9ab18
