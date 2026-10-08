@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Laravel SAST Lab 🛡️
 
 **Panduan Praktikum DevSecOps — SAST dengan SonarQube**  
