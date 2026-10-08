@@ -157,8 +157,3 @@ Setelah scan selesai, dokumentasikan:
 - [CWE Top 25](https://cwe.mitre.org/top25/)
 
 ---
-
-*DevSecOps — STT Terpadu Nurul Fikri*
-=======
-# laravel-sast-lab
->>>>>>> 6e5c30232bd00d436e267bb9d0ec19b251e9ab18
